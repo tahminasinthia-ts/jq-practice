@@ -1,0 +1,66 @@
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+#panel2, #flip2 {
+  padding: 10px;
+  text-align: center;
+  background-color: #3CCBF4;
+  border: solid 1px #2A8CDA;
+}
+
+#panel2 {
+  padding: 20px;
+  display: none;
+}
+.box1{
+width:100px;
+height:100px;
+background:#98bf21;
+position:absolute;
+right:100px;
+}
+.box2{
+width:50px;
+height:100px;
+background:#98bf21;
+position:absolute;
+right:50px;
+
+}
+.box3{
+width:100px;
+height:100px;
+background:red;
+position:absolute;
+right:0px;
+}
+.box4{
+width:200px;
+height:100px;
+background:blue;
+position:absolute;
+right:200px;
+
+}
+.box5{
+width:200px;
+height:150px;
+background:yellow;
+position:absolute;	
+}
+#dimension {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+}
